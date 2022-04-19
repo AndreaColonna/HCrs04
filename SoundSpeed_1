@@ -74,7 +74,7 @@
         <set name="Dati Arduino">
             <data name="Time t (s)">tempo</data>
             <data name="Temperatura (°C)">temperatura</data>
-            <data name="Umidità (%)">tensione1</data>
+            <data name="Umidità (%)">umidita</data>
             <data name="Tempo di percorrenza (s)">tempo_c</data>
         </set>
     </export>
