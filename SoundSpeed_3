@@ -61,7 +61,7 @@
             </value>
 
 			<!-- oggetto editabile -->
-			<edit label="Distanza" unit="cm" default="10" signaed="false">
+			<edit label="Distanza" unit="cm" default="10" signed="false">
 				<output>dis</output>
 			</edit>
 		</view>
